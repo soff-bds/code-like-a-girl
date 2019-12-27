@@ -1,0 +1,26 @@
+
+.fondoportada{ background-image:url("../img/gris.png");}
+.fondoindice{ background-image:url("../img/series.jpg");}
+
+#parrafocentral{
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+}
+#h1
+
+.alinear{
+    display:block;
+    width:auto;
+}
+.derecha{
+    text-align: right;
+}
+
+.borde{
+border: 5px solid black;
+background-color:rgb(45, 187, 192);
+text-align: center;
+
+}
