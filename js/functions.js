@@ -32,5 +32,5 @@ function PideActor()
     } 
 
 function abreportada(){
-    window.open("file:///C:/Users/LearningCenter/Desktop/MATERIAL%20COMPILADO%20CLAG/IT.url/Proyecto%20-%20Bootstrap/portada.html")
+    window.open("portada.html")
 }
